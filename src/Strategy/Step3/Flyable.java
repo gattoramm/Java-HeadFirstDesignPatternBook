@@ -1,4 +1,4 @@
-package part1.Strategy.Step3;
+package Strategy.Step3;
 
 public interface Flyable {
     void fly();

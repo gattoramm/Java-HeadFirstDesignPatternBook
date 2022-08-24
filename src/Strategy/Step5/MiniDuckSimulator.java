@@ -1,4 +1,4 @@
-package part1.Strategy.Step5;
+package Strategy.Step5;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {
@@ -9,6 +9,7 @@ public class MiniDuckSimulator {
 
         Duck model = new ModelDuck();
 
+        System.out.println("--");
         model.performFly();
         model.setFlyBehavior(new FlyRocketPowered());
         model.performFly();

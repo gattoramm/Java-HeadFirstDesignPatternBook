@@ -1,5 +1,4 @@
-package part1.Strategy.Step5;
-
+package Strategy.Step5;
 
 public class MallardDuck extends Duck {
     public MallardDuck() {

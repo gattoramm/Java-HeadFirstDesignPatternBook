@@ -1,4 +1,4 @@
-package part1.Strategy.Step1;
+package Strategy.Step1;
 
 public abstract class Duck {
     void quack() {
