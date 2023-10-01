@@ -1,5 +1,6 @@
 
-*.class
-.idea/*
+
+.idea
 Java-HeadFirstDesignPatternBook.iml
-out/*
+out
+target
