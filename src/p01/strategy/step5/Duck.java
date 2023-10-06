@@ -1,6 +1,5 @@
 package p01.strategy.step5;
 
-
 public abstract class Duck {
     FlyBehavior flyBehavior;
     QuackBehavior quackBehavior;

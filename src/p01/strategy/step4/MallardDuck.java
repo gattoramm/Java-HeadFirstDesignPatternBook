@@ -1,6 +1,5 @@
 package p01.strategy.step4;
 
-
 public class MallardDuck extends Duck{
     public MallardDuck() {
         quackBehavior = new Quack();

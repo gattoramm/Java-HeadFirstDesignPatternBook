@@ -1,6 +1,5 @@
 package p01.strategy.step2;
 
-
 public class RubberDuck extends Duck{
     @Override
     void display() {

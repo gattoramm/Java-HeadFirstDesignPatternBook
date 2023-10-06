@@ -1,6 +1,5 @@
 package p01.strategy.step5;
 
-
 public class FlyRocketPowered implements FlyBehavior{
     @Override
     public void fly() {

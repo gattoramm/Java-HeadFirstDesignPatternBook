@@ -1,6 +1,5 @@
 package p01.strategy.step3;
 
-
 public class RedheadDuck extends Duck implements Flyable, Quackable{
     @Override
     void display() {

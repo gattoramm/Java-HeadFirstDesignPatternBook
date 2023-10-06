@@ -1,6 +1,5 @@
 package p01.strategy.step2;
 
-
 public abstract class Duck {
     void quack() {
         System.out.println("quack");
